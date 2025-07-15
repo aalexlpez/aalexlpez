@@ -24,6 +24,9 @@
 ```
   <!-- Skills and Tools-->
 ---
+
+<br><br><h2 align="center">Skills:</h2><br>
+
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
