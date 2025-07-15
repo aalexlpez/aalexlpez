@@ -39,7 +39,6 @@
           <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRiajF4aWUyZ2NoZWIyNGxmdWVxajZtZmNlNnRtZWFndjJsdzlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" width="45" alt="React logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript logo" />
           <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
         </td>
     </tr>
     <tr>
