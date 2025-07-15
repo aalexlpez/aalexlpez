@@ -17,7 +17,7 @@
 
 #  👨‍💻 System Engineer.
 
--  🚀 Web developer.
++  🚀 Web developer.
 
-!  ✨ If you can imagine it, you can program it. 
+#  ✨ If you can imagine it, you can program it. 
 ```
