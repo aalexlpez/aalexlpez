@@ -67,7 +67,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
+ <a style="margin-left: 10px;" target="_blank" href="https://portfolio-alex-xi.vercel.app/" >
 			<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lopez-alexander/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
