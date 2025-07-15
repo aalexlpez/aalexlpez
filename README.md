@@ -59,6 +59,9 @@
     </tr>
 </table>
 
+
+<br><br><h2 align="center">Contact:</h2><br>
+
 <div align="center">
 
 💌 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
