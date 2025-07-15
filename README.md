@@ -3,7 +3,7 @@
 
   <!-- Welcome -->
 <h1  align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Mono&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=10&color=B3B3B3&lines=Hi,+i'm+Alexander+López!+👋;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Mono&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=10&color=B3B3B3&lines=Hi,+i'm+Alexander+0100110011000011011100000110010101111010!+👋;" />
 </h1>
 
 
