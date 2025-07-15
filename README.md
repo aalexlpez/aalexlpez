@@ -16,5 +16,4 @@
 #  👨‍💻 System Engineer.
 -  🚀 Web developer.
 !  ✨ If you can imagine it, you can program it. 
-#  💻 Solving problems from a self-built computer.
 ```
