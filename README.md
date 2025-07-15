@@ -7,7 +7,7 @@
 </h1>
 
   <!-- Profile Picture -->
-<img align="left" height="150" src="https://i.giphy.com/ZVik7pBtu9dNS.webp"/>
+<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpucndyd3NhcmJycHJvZ2w2NTdqMnh1ZDFscXZkMHRwbW5qNXo0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif"/>
 
 <!-- Description -->
 ```diff
