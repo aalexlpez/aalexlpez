@@ -36,6 +36,7 @@
           <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
           <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemMzYXFhN3llYjAzbzNvMzg1dTJsbWdkY3hteXV5cGV0MW5qOWZldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="45" alt="React logo" />
+          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRiajF4aWUyZ2NoZWIyNGxmdWVxajZtZmNlNnRtZWFndjJsdzlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" width="45" alt="React logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript logo" />
           <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
