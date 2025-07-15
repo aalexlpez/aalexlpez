@@ -7,8 +7,7 @@
 </h1>
 
   <!-- Profile Picture -->
-<img width="480" height="268" alt="image" src="https://github.com/user-attachments/assets/5e5cd655-ac14-4615-be15-c170d90b04d6" />
-
+<img align="left" height="150" src="https://i.giphy.com/ZVik7pBtu9dNS.webp"/>
 
 <!-- Description -->
 ```diff
