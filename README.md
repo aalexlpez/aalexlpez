@@ -2,9 +2,8 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
   <!-- Welcome -->
-<h1  align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=65=true&vCenter=true&width=700&height=100&duration=4000&color=B3B3B3&lines=](https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=)Hi+There!+👋;+I'm+Alexander+López!;" />  
-
+<h1  align="start">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Alexander+López!;" />
 </h1>
 
   <!-- Profile Picture -->
