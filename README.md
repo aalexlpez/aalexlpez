@@ -11,7 +11,7 @@
 
 <!-- Description -->
 ```diff
-🛠️ +7 years of professional experience.
++  🛠️ +7 years of professional experience.
 +  ✔️ Responsible worker.
 #  👨‍💻 System Engineer.
 -  🚀 Web developer.
