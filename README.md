@@ -12,7 +12,7 @@
 <!-- Description -->
 ```diff
 +  🛠️ +7 years of professional experience.
-+  ✔️ Responsible worker.
+#  ✔️ Responsible worker.
 #  👨‍💻 System Engineer.
 -  🚀 Web developer.
 !  ✨ If you can imagine it, you can program it. 
