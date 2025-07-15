@@ -25,7 +25,7 @@
   <!-- Skills and Tools-->
 ---
 
-<br><br><h2 align="center">Skills</h2><br>
+<br><br><h2 align="center">Skills</h2>
 
 <table align="center">
     <tr>
