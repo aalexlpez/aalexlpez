@@ -62,8 +62,7 @@
 
 <div align="center">
 
-💌 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
+💌 Contact ➖ aalexlpez@gmail.com (for a general-purpose contact) <br>
 
 <p align="center">
 
