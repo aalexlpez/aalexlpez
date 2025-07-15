@@ -23,9 +23,8 @@
 #  ✨ If you can imagine it, you can program it. 
 ```
   <!-- Skills and Tools-->
----
 
-<br><br><h2 align="center">Skills</h2>
+<br><br><h2 align="center">Skills</h2><br>
 
 <table align="center">
     <tr>
