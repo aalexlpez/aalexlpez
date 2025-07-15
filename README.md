@@ -72,7 +72,7 @@
 			<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lopez-alexander/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/aalexlpez">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
